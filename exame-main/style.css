@@ -1,0 +1,31 @@
+@import url('https://fonts.cdnfonts.com/css/rawline');
+
+body{
+    font-family: 'Rawline', sans-serif;
+}
+
+.navbar-custom {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #ddd;
+}
+.user-profile {
+    display: flex;
+    align-items: center;
+    background-color: #e9ecef;
+    padding: 5px 10px;
+    border-radius: 50px;
+}
+.user-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.user-name {
+    font-weight: bold;
+}
+.vertical-line {
+    border-left: 1px solid #ddd;
+    height: 40px;
+    margin: 0 15px;
+}
